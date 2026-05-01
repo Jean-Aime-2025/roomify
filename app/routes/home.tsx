@@ -37,8 +37,8 @@ export default function Home() {
         <h1>Build beautiful spaces at the speed of thought with Roomify</h1>
 
         <p className="subtitle">
-          Roomify if an AI-first design environment that helps you visualize,
-          render and ship architectural projects faster thatn ever.
+          Roomify is an AI-first design environment that helps you visualize,
+          render and ship architectural projects faster than ever.
         </p>
 
         <div className="actions">
